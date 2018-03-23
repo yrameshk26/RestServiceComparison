@@ -1,9 +1,9 @@
-base_url_dc_1 : 'https://datagridservices-pr.tsl.telus.com/mso/massmarketsalesmgmt/offerinfodatagrid/offerinfodatagridrestsvc-v-1-0/component/'
-base_url_dc_2 : 'https://lp97741.corp.ads:55055/v1/mso/massmarketsalesmgmt/offerinfo/component/'
+base_url_dc_1 : 'https://anyurl.com/contextpath/component/'
+base_url_dc_2 : 'https://anyurl2.com/contextpath2/component/'
 
-componentCodes : 'FTR_MAN_FGDELIVERY_VC30'
+componentCodes : 'PathParameter'
 
-username : 'APP_TMCLIENTPORTAL'
-password : 'soaorgid'
+username : 'USERNAME'
+password : 'PASSWORD'
 
 headers : '{"filter-time-stamp": "2018-01-01T11:00:13-0400", "Accept-Encoding": "gzip"}'
